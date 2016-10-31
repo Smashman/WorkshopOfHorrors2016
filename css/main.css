@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #c9c9c8;
+    font-family: Arial, sans-serif;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
+    line-height: 16px;
+    font-size: 16px;
+    background-color: #0a0b0f;
+}
+
+a {
+    color: #c9c9c8;
+}
+
+a:hover {
+    color:#A0A6B5;
+}
+
+.content > .text {
+    position: absolute;
+}
+.emph {
+    font-weight: bold;
+    font-style: italic;
+}
+.italic {
+    font-style: italic;
+}
+.container, .content {
+    background: top center no-repeat #0a0b0f;
+}
+.content {
+    width: 1070px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+.button {
+    position: absolute;
+    background-position: bottom;
+}
+.button:hover {
+    background-position: top;
+}
+
+#tf2 {
+    width: 186px;
+    height: 40px;
+    top: 39px;
+    left: 442px;
+    background-image: url(../images/button_tf_logo.jpg);
+}
+
+#container_01, #content_01 {
+    height: 1200px;
+    background-image: url(../images/bg_1.jpg);
+}
+#container_02, #content_02 {
+    height: 1200px;
+    background-image: url(../images/bg_2.jpg);
+}
+#container_03, #content_03 {
+    height: 1200px;
+    background-image: url(../images/bg_3.jpg);
+}
+#container_04, #content_04 {
+    height: 1200px;
+    background-image: url(../images/bg_4.jpg);
+}
+
+#content_02 > .text {
+    top: 202px;
+    left: 126px;
+    width: 820px;
+}
+
+#content_04 > .text#pumpkin {
+    top: 580px;
+    left: 418px;
+    width: 528px;
+}
+
+#content_04 > .text#thanks {
+    bottom: 78px;
+    text-align: center;
+    left: 152px;
+    width: 766px;
+}
+
+#workshop {
+    background-image: url(../images/button_workshop.jpg);
+    width: 287px;
+    height: 313px;
+    top: 192px;
+    left: 91px;
+}
+
+#modstf {
+    background-image: url(../images/button_mods.jpg);
+    width: 275px;
+    height: 313px;
+    top: 192px;
+    left: 378px;
+}
+
+#server {
+    background-image: url(../images/button_servers.jpg);
+    width: 326px;
+    height: 313px;
+    top: 192px;
+    left: 662px;
+}
+
+#legal {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 10px;
+    width: 888px;
+    height: 30px;
+    display: block;
+    background-image: url(http://media.steampowered.com/apps/tf2/blizzbobarrabas/legal.png);
+}
