@@ -65,7 +65,7 @@
                 </div>
 
                 <div class="text" id="thanks">
-                    Special Thanks to Crash, Rogue13, <a href="//tf2maps.net">TF2Maps.net</a>, the <a href="//facepunch.com/showthread.php?t=1520026">TF2 Emporium</a>, <a href="//mods.tf">mods.tf</a>, <a href="//frontline.tf">Team Frontline</a> and everyone at Valve for making this all possible for nine years and counting!
+                    Special Thanks to Crash, Rogue13, <a href="//tf2maps.net" target="_blank">TF2Maps.net</a>, the <a href="//facepunch.com/showthread.php?t=1520026" target="_blank">TF2 Emporium</a>, <a href="//mods.tf" target="_blank">mods.tf</a>, <a href="//frontline.tf" target="_blank">Team Frontline</a> and everyone at Valve for making this all possible for nine years and counting!
                 </div>
 
                 <a href="http://www.valvesoftware.com/" id="legal" target="_blank"></a>
