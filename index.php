@@ -51,15 +51,19 @@
                 <?php include 'php/credits.php';?>
                 <div id="credits">
                     <div class="row">
-                        <a href="//twitter.com/mellowretro" class="twitter"></a>
-                        <?php steam_block(87084440,"Project Lead, Thumbnail Design, SFM Renders & Web Assets",true);?>
-                        <a href="//twitter.com/aeonbollig" class="twitter"></a>
-                        <?php steam_block(33885066,"Project Lead, Web Assets");?>
+                        <div>
+                            <?php steam_block(87084440,"Project Lead, Thumbnail Design, SFM Renders & Web Assets",true);?>
+                            <a href="//twitter.com/mellowretro" class="button twitter" target="_blank"></a>
+                        </div>
+                        <div>
+                            <?php steam_block(33885066,"Project Lead, Web Assets");?>
+                            <a href="//twitter.com/aeonbollig" class="button twitter" target="_blank"></a>
+                        </div>
                     </div>
                     <div class="row">
                         <div>
-                            <a href="//twitter.com/smashman2004" class="twitter"></a>
                             <?php steam_block(39933033,"Web Developer");?>
+                            <a href="//twitter.com/smashman2004" class="button twitter" target="_blank"></a>
                         </div>
                     </div>
                 </div>
